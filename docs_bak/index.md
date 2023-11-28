@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Augoor"
-  text: "Docker Installation Guides"
+  text: "Installation Guide"
   tagline: Learn how to install and configure Augoor
   actions:
     - theme: brand
